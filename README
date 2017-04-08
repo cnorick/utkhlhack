@@ -1,0 +1,1 @@
+The backprop executable accepts a -q flag that allows you query the network for output given a specific input.
